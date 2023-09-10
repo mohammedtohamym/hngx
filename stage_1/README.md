@@ -9,7 +9,7 @@
 
 ### Appetize link:
 
-	[link](https://appetize.io/app/7bj5syqw7l4nrxu7kklnyn4xlu?device=pixel4&osVersion=12.0&scale=75)
+	[link] (https://appetize.io/app/7bj5syqw7l4nrxu7kklnyn4xlu?device=pixel4&osVersion=12.0&scale=75 "apetize")
 
 ### Installation:
 
